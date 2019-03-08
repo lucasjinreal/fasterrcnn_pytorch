@@ -1,0 +1,10 @@
+cython
+cffi
+scipy
+msgpack
+easydict
+matplotlib
+pyyaml
+tensorboardX
+loguru
+alfred-py
